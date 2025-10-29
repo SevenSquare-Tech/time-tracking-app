@@ -7,6 +7,8 @@
 This app allows users to **add**, **delete**, and **modify** timers for various tasks they want to keep track of.
 Each timer corresponds to a different activity — perfect for tracking productivity and managing work hours.
 
+[A Step-by-Step Guide to Build a Time Tracking App in React Native.](https://www.sevensquaretech.com/create-time-tracking-app-react-native-code-github/)
+
 ## 🖼️ Screenshot
 
 <p align="center">
